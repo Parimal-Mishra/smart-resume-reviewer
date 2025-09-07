@@ -54,13 +54,13 @@ Check `DOCUMENTATION.md` for detailed troubleshooting and configuration options.
 
 MIT License - Free for personal and commercial use.
 
-# ==============================================
+# =====================================
 
 # uploads/.gitkeep
 # This file ensures the uploads directory is tracked by git
 # The directory is needed for temporary file storage during resume analysis
 
-# ==============================================
+# =====================================
 
 # package.json (Enhanced version)
 {
