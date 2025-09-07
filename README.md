@@ -1,4 +1,4 @@
-# 🤖 AI Resume Reviewer
+# 🤖 Smart Resume Reviewer
 
 A professional AI-powered resume analysis tool that provides comprehensive feedback including ATS scoring, strengths analysis, and detailed improvement recommendations.
 
