@@ -1,4 +1,4 @@
-# 🤖 AI Resume Reviewer - Complete Documentation
+# 🤖 Smart Resume Reviewer - Complete Documentation
 
 ## 📋 Table of Contents
 1. [Project Overview](#project-overview)
