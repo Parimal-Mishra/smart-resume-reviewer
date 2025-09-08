@@ -1,4 +1,4 @@
-# 🤖 AI Resume Reviewer
+# 🤖 Smart Resume Reviewer
 
 A professional AI-powered resume analysis tool that provides comprehensive feedback including ATS scoring, strengths analysis, and detailed improvement recommendations.
 
@@ -54,57 +54,3 @@ Check `DOCUMENTATION.md` for detailed troubleshooting and configuration options.
 
 MIT License - Free for personal and commercial use.
 
-# ==============================================
-
-# uploads/.gitkeep
-# This file ensures the uploads directory is tracked by git
-# The directory is needed for temporary file storage during resume analysis
-
-# ==============================================
-
-# package.json (Enhanced version)
-{
-  "name": "ai-resume-reviewer",
-  "version": "1.0.0",
-  "description": "AI-powered resume reviewer with ATS scoring and detailed feedback using Groq API",
-  "main": "server.js",
-  "scripts": {
-    "start": "node server.js",
-    "dev": "nodemon server.js",
-    "test": "echo \"No tests specified\" && exit 0"
-  },
-  "dependencies": {
-    "express": "^4.18.2",
-    "multer": "^1.4.5-lts.1",
-    "cors": "^2.8.5",
-    "dotenv": "^16.3.1"
-  },
-  "devDependencies": {
-    "nodemon": "^3.0.1"
-  },
-  "keywords": [
-    "resume",
-    "ai",
-    "ats",
-    "career",
-    "analysis",
-    "groq",
-    "llama",
-    "job-search",
-    "recruitment"
-  ],
-  "author": "Your Name <your.email@example.com>",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/yourusername/ai-resume-reviewer"
-  },
-  "bugs": {
-    "url": "https://github.com/yourusername/ai-resume-reviewer/issues"
-  },
-  "homepage": "https://github.com/yourusername/ai-resume-reviewer#readme",
-  "engines": {
-    "node": ">=14.0.0",
-    "npm": ">=6.0.0"
-  }
-}
